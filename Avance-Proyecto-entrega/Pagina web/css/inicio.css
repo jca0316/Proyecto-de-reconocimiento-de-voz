@@ -1,0 +1,13 @@
+
+
+#boton-index{
+    text-align: center;
+}
+div {
+    color: rgb(141, 100, 100);
+    font-family: Arial, Helvetica, sans-serif;
+    float: top;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
